@@ -539,6 +539,5 @@
 		#app-mount input[type=checkbox]:checked+span {
 			border-color: var(--colour1);
 			background-color: var(--colour1);
-		}
-
+		
 		}
