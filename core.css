@@ -539,5 +539,15 @@
 		#app-mount input[type=checkbox]:checked+span {
 			border-color: var(--colour1);
 			background-color: var(--colour1);
-		
+		}
+
+	/*Watermark*/
+		#app-mount .typeWindows-1za-n7:after {
+			content: 
+			color: rgb(255,255,255,0.6);
+			font-weight: 500;
+
+			position: absolute;
+			top: 5px;
+			left: 42.5%;
 		}
